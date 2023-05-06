@@ -28,7 +28,12 @@ Analyze and design a system to classify the chicken gender ( include algorithm, 
 ### Summary
 ![image](https://user-images.githubusercontent.com/83819024/236599430-29a9bca2-e795-425b-be51-ad8f2b58dfe4.png)
 ## My dataset (collect by myself from the farm)
-### Dataset
+- Dataset
 https://www.kaggle.com/datasets/hongxun/dataset-chicken-gender
-### Raw Data
+- Raw Data
+https://www.kaggle.com/datasets/hongxun/raw-data-chicken-gender
+- Model
+https://www.kaggle.com/datasets/hongxun/classify-chicken-gender
+- Materials (all)
+https://www.kaggle.com/datasets/hongxun/material-classify-chicken-gender
 
