@@ -1,0 +1,8 @@
+Link youtube thực nghiệm:
+1. Thực nghiệm lần 1 (xây dựng mô hình phân loại và phân loại thử):
+https://youtu.be/ve8OjjkXJxA
+2. Thực nghiệm lần 2 (lấy kết quả thực nghiệm lần 1):
+https://youtu.be/6x_dHk-QXaI
+3. Thực nghiệm lần 3 (lấy kết quả thực nghiệm lần 2 và lấy số liệu kích thước của
+gà):
+https://youtu.be/hFi8iOCUlrs
